@@ -1,5 +1,5 @@
 # Descifrado-Criptograma
-_Descifrado aautomático de  un criptograma mediante análisis de frecuencias en ensamblador MIPS_
+_Descifrado automático de  un criptograma mediante análisis de frecuencias en ensamblador MIPS_
 
 
 
